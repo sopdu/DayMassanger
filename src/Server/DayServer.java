@@ -61,7 +61,7 @@ public class DayServer {
                reader = new BufferedReader(is);
             } catch (Exception e) {}
 
-            /*         
+            /*           test
             InputStreamReader is = new InputStreamReader(socket.getInputStream());
             reader = new BufferedReader(is);
             */
